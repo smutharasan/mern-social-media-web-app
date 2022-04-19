@@ -1,6 +1,8 @@
 ---
-Name: Supriya Mutharasan, Anas Zakariyah Bemat
-Date: 17/04/2022
+Name - Supriya Mutharasan, Anas Zakariyah Bemat
+
+Date - 17/04/2022
+
 ---
 
 # MERN Social 2.0
